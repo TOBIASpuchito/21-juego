@@ -1,0 +1,69 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+  border-bottom: solid 1px white;
+}
+body{
+  background-color: rgb(11, 81, 11);
+}
+.jugador{
+  color:  white;
+  margin-left: 50px;
+  text-align: center;
+}
+.carta__img{
+  position: relative;
+  left:10px;
+  margin-left: -75px;
+  width: 130px;
+  height: 200px;
+  
+  
+}
+#Jugador__cartas{
+  margin-top:  20px;
+  margin-left: 40px;
+  height: 220px;
+}
+#computador__cartas{
+  margin-top:  20px;
+  margin-left: 40px;
+  height: 220px;
+}
+#detenerBtn{
+  padding: 15px;
+  color:  white;
+  font-weight: 900;
+  background-color: rgb(20, 20, 118);
+  border-radius: 20px;
+}
+#pedirBtn{
+  padding: 15px;
+  color:  white;
+  font-weight: 900;
+  background-color: rgb(20, 20, 118);
+  border-radius: 20px;
+
+}
+#nuevoBtn{
+  padding: 15px;
+  color:  white;
+  font-weight: 900;
+  background-color: rgb(185, 22, 28);
+  border-radius: 20px;
+}
+.mensaje__final{
+ background-color: black;
+ text-align: center;
+  padding: 20px;
+  color: white;
+  font-weight: 900;
+  border-top: 1px solid white;
+}
