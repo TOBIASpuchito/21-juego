@@ -4,3 +4,4 @@
          cartaImg.className="carta__img"
          return cartaImg
  }
+ // esta funcion crea un elemento tipo imagen en el div de html 
